@@ -1,3 +1,7 @@
+### 6.1.2
+
+- Updates Facebook iOS SDK to 17.0.0
+
 ### 6.1.1
 - Fixed [issue #383](https://github.com/darwin-morocho/flutter-facebook-auth/issues/383)
 
@@ -23,7 +27,7 @@
 ### 6.0.0
 - **BREAKING CHANGE**  since 6.x version your project must use dart 3.x or or higher.
 In your `pubspec.yaml` make sure that you are using dart 3.x or or higher.
- ```yaml 
+ ```yaml
 environment:
   sdk: ">=3.0.0 <4.0.0"
  ```
@@ -183,7 +187,7 @@ if applicationWindow != nil {
 ```
 
 ### 3.5.5
-- Added `if #available(iOS 13.0, *)`on iOS. 
+- Added `if #available(iOS 13.0, *)`on iOS.
 ### 3.5.4
 - Added minimum support for UIScene on iOS (Thanks to [@marcotta](https://github.com/darwin-morocho/flutter-facebook-auth/pull/181))
 ### 3.5.3
@@ -262,10 +266,10 @@ if applicationWindow != nil {
 - Updated flutter_facebook_auth_web and flutter_facebook_auth_platform_interface.
 
 ### 3.0.0+1
-- Updated README. 
+- Updated README.
 
 ### 3.0.0
-- Added support for flutter 2 and null safety. Thansk [@samlythemanly](https://github.com/samlythemanly). 
+- Added support for flutter 2 and null safety. Thansk [@samlythemanly](https://github.com/samlythemanly).
 ### 3.0.0-nullsafety.1
 - flutter_facebook_auth_platform_interface: ^2.0.0-nullsafety.2
 
